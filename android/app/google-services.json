@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684043079706",
+    "project_id": "minima-do-384eb",
+    "storage_bucket": "minima-do-384eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684043079706:android:fb1b29c623a1ad776501a3",
+        "android_client_info": {
+          "package_name": "com.example.minima_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN8h4-T9jNBgiGp8pIae8rRXYR6IUFRic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
